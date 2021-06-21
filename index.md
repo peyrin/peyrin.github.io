@@ -16,7 +16,7 @@ Hi! I'm an incoming 5th year MS student in EECS at UC Berkeley studying computer
 CS 161: Computer Security
 
 * Fall 2021: GSI
-* Summer 2021: Co-instructor (with [Nicholas Ngai](https://ngai.me/))
+* [Summer 2021](https://su21.cs161.org/): Co-instructor (with [Nicholas Ngai](https://ngai.me/))
 * [Spring 2021](https://sp21.cs161.org/): Head uGSI
 * [Fall 2020](https://fa20.cs161.org/): Head uGSI
 * [Summer 2020](https://su20.cs161.org/): Co-instructor (with [Ryan Lehmkuhl](https://ryanleh.me/))
@@ -47,4 +47,4 @@ CS 61A: Structure and Interpretation of Computer Programs
 
 ## Projects
 
-* 2020-2021: [*Computer Security*](https://cs161.org/resources.html#notes), the CS 161 course textbook.
+* 2020-2021: [*Computer Security*](https://textbook.cs161.org/), the CS 161 course textbook.
