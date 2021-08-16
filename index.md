@@ -15,7 +15,7 @@ Hi! I'm an incoming 5th year MS student in EECS at UC Berkeley studying computer
 
 CS 161: Computer Security
 
-* Fall 2021: GSI
+* [Fall 2021](https://fa21.cs161.org/): GSI
 * [Summer 2021](https://su21.cs161.org/): Co-instructor (with [Nicholas Ngai](https://ngai.me/))
 * [Spring 2021](https://sp21.cs161.org/): Head uGSI
 * [Fall 2020](https://fa20.cs161.org/): Head uGSI
