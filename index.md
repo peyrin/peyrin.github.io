@@ -7,7 +7,7 @@ layout: home
 
 Email: peyrin (at) berkeley (dot) edu
 
-Hi! I'm an incoming 5th year MS student in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/).
+Hi! I'm an incoming 5th year MS student in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/).
 
 ## Teaching
 
