@@ -25,7 +25,7 @@ CS 161: Computer Security
 
 CS 61C: Great Ideas in Computer Architecture (Machine Structures)
 
-* Fall 2021: GSI
+* [Fall 2021](https://cs61c.org/fa21/): GSI
 * [Summer 2019](https://cs61c.org/su19/): Tutor
 
 CS 188: Introduction to Artificial Intelligence
@@ -48,3 +48,14 @@ CS 61A: Structure and Interpretation of Computer Programs
 ## Projects
 
 * 2020-2021: [*Computer Security*](https://textbook.cs161.org/), the CS 161 course textbook.
+* 2020-2021: [CS 161 Exam Archive](https://cs161.org/resources.html#past-exams), fully annotated solutions for over 30 past exams.
+
+
+## Teaching responsibilities
+
+* Co-developed [new lecture slides](https://su21.cs161.org/) with a focus on accessibility for CS 161.
+* Redesigned [project specs](https://cs161.org/proj1/) to provide additional scaffolding and quality-of-life improvements. Average wait time in office hours decreased from 2+ hours to less than an hour as a result of redeveloped projects.
+* Developed backend infrastructure to provide additional support to struggling students, including periodic check-ins throughout the semester and support for incomplete students finishing the class in a later semester.
+* Wrote/edited exams for CS 161 (since spring 2020) and CS 61C (since fall 2021).
+* Rewrote homework assignments for CS 161 to support online learning.
+* Managed student support on class forums (2000-6000 questions answered per semester).
