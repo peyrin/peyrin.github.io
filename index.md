@@ -7,7 +7,9 @@ layout: home
 
 Email: peyrin (at) berkeley (dot) edu
 
-Hi! I'm an incoming 5th year MS student in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/).
+Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/).
+
+I contribute regularly to [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 
 ## Teaching
 
@@ -15,6 +17,8 @@ Hi! I'm an incoming 5th year MS student in EECS at UC Berkeley studying computer
 
 CS 161: Computer Security
 
+* Summer 2022: Co-instructor
+* [Spring 2022](https://sp22.cs161.org): Advisor
 * [Fall 2021](https://fa21.cs161.org/): GSI
 * [Summer 2021](https://su21.cs161.org/): Co-instructor (with [Nicholas Ngai](https://ngai.me/))
 * [Spring 2021](https://sp21.cs161.org/): Head uGSI
@@ -25,6 +29,8 @@ CS 161: Computer Security
 
 CS 61C: Great Ideas in Computer Architecture (Machine Structures)
 
+* Summer 2022: Co-instructor
+* [Spring 2022](https://cs61c.org/sp22/): Head GSI
 * [Fall 2021](https://cs61c.org/fa21/): GSI
 * [Summer 2019](https://cs61c.org/su19/): Tutor
 
@@ -34,7 +40,7 @@ CS 188: Introduction to Artificial Intelligence
 
 EE 16B: Designing Information Devices and Systems II
 
-* [Spring 2019](https://inst.eecs.berkeley.edu/~ee16b/sp19/): Reader
+* [Spring 2019](https://inst.eecs.berkeley.edu/~ee16b/sp19/): Reader (grading, writing lecture notes)
 
 EE 16A: Designing Information Devices and Systems I
 
@@ -42,20 +48,13 @@ EE 16A: Designing Information Devices and Systems I
 
 CS 61A: Structure and Interpretation of Computer Programs
 
-* [Spring 2018](https://inst.eecs.berkeley.edu/~cs61a/sp18/): Academic intern (lab assistant)
+* [Spring 2018](https://inst.eecs.berkeley.edu/~cs61a/sp18/): Academic intern (lab assistant, office hours)
 
 
 ## Projects
 
+* 2021: [CS 61C project spec rewrites](https://fa21.cs161.org/).
+* 2021: [CS 161 lecture slide redesign](https://su21.cs161.org/), with a focus on improved accessibility.
 * 2020-2021: [*Computer Security*](https://textbook.cs161.org/), the CS 161 course textbook.
 * 2020-2021: [CS 161 Exam Archive](https://cs161.org/resources.html#past-exams), fully annotated solutions for over 30 past exams.
-
-
-## Teaching responsibilities
-
-* Co-developed [new lecture slides](https://su21.cs161.org/) with a focus on accessibility for CS 161.
-* Redesigned [project specs](https://cs161.org/proj1/) to provide additional scaffolding and quality-of-life improvements. Average wait time in office hours decreased from 2+ hours to less than an hour as a result of redeveloped projects.
-* Developed backend infrastructure to provide additional support to struggling students, including periodic check-ins throughout the semester and support for incomplete students finishing the class in a later semester.
-* Wrote/edited exams for CS 161 (since spring 2020) and CS 61C (since fall 2021).
-* Rewrote homework assignments for CS 161 to support online learning.
-* Managed student support on class forums (2000-6000 questions answered per semester).
+* 2020: CS 161 problem set rewrite to support online learning.
