@@ -9,6 +9,8 @@ Email: peyrin (at) berkeley (dot) edu
 
 Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/).
 
+I'm interested in building large, scalable CS classes that are equitable and accessible for everyone. My current research focuses on preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
+
 I contribute regularly to [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 
 ## Teaching
