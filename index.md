@@ -23,6 +23,12 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 [Teaching evaluations available on HKN.](https://hkn.eecs.berkeley.edu/coursesurveys/instructor/Kao,Peyrin)
 
 <table>
+<colgroup>
+  <col span="1" style="width: 19%;">
+  <col span="1" style="width: 27%;">
+  <col span="1" style="width: 27%;">
+  <col span="1" style="width: 27%;">
+</colgroup>
 <thead>
   <tr>
     <th></th>
@@ -33,6 +39,12 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 </thead>
 <tbody>
   <tr>
+    <td>Spring 2023</td>
+    <td>Instructor</td>
+    <td>Co-instructor</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Fall 2022</td>
     <td>Instructor</td>
     <td></td>
@@ -40,8 +52,8 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
   </tr>
   <tr>
     <td>Summer 2022</td>
-    <td>Co-instructor (with Fuzail Shakir)</td>
-    <td>Co-instructor (with Caroline Liu, Justin Yokota)</td>
+    <td>Co-instructor<br>(with Fuzail Shakir)</td>
+    <td>Co-instructor<br>(with Caroline Liu,<br>Justin Yokota)</td>
     <td></td>
   </tr>
   <tr>
@@ -58,7 +70,7 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
   </tr>
   <tr>
     <td>Summer 2021</td>
-    <td><a href="https://su21.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a> (with <a href="https://ngai.me/" target="_blank" rel="noopener noreferrer">Nicholas Ngai</a>)</td>
+    <td><a href="https://su21.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="https://ngai.me/" target="_blank" rel="noopener noreferrer">Nicholas Ngai</a>)</td>
     <td></td>
     <td></td>
   </tr>
@@ -76,7 +88,7 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
   </tr>
   <tr>
     <td>Summer 2020<br></td>
-    <td><a href="https://su20.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a> (with <a href="https://ryanleh.me/" target="_blank" rel="noopener noreferrer">Ryan Lehmkuhl</a>)<br></td>
+    <td><a href="https://su20.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="https://ryanleh.me/" target="_blank" rel="noopener noreferrer">Ryan Lehmkuhl</a>)<br></td>
     <td></td>
     <td></td>
   </tr>
@@ -103,7 +115,7 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 
 * Spring 2019: Reader (grading, writing lecture notes) for [EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp19/) (Designing Information Devices and Systems II)
 * Fall 2018: Lab assistant for [EE 16A](https://inst.eecs.berkeley.edu/~ee16a/fa18/) (Designing Information Devices and Systems I)
-* Spring 2018: Academic intern (lab assistant, office hours) for [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/): Structure and Interpretation of Computer Programs
+* Spring 2018: Academic intern (lab assistant, office hours) for [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (Structure and Interpretation of Computer Programs)
 
 
 ## Projects
