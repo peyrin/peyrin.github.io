@@ -5,7 +5,7 @@
 layout: home
 ---
 
-If you have a question about one of the classes I'm teaching, please use the course emails instead (add berkeley.edu to the end of each):
+If you have a question about one of the classes I'm teaching, please use the course emails instead. These are checked by me, the co-instructors, and head TAs, so you'll get an answer more quickly if you use them. (Add berkeley.edu to the end of each one)
 - CS 161: cs161-staff@
 - CS 188: cs188@
 - CS 61C: cs61c@
@@ -17,6 +17,7 @@ Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley st
 I'm interested in building large, scalable CS classes that are equitable and accessible for everyone. My current research focuses on preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
 
 I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
+
 
 ## Teaching
 
@@ -113,13 +114,14 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 </tbody>
 </table>
 
-* Spring 2019: Reader (grading, writing lecture notes) for [EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp19/) (Designing Information Devices and Systems II)
-* Fall 2018: Lab assistant for [EE 16A](https://inst.eecs.berkeley.edu/~ee16a/fa18/) (Designing Information Devices and Systems I)
-* Spring 2018: Academic intern (lab assistant, office hours) for [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (Structure and Interpretation of Computer Programs)
+* [Spring 2019 EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp19/) (Designing Information Devices and Systems II): Reader (grading, writing lecture notes)
+* [Fall 2018 EE 16A](https://inst.eecs.berkeley.edu/~ee16a/fa18/) (Designing Information Devices and Systems I): Lab assistant
+* [Spring 2018 CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (Structure and Interpretation of Computer Programs): Academic intern (lab assistant, office hours)
 
 
 ## Projects
 
+* 2022: [New CS 61C project](https://cs61c.org/sp22/projects/proj1/), co-developed with the project dev TAs.
 * 2021: [CS 61C project spec rewrites](https://fa21.cs161.org/).
 * 2021: [CS 161 lecture slide redesign](https://su21.cs161.org/), with a focus on improved accessibility.
 * 2020-2021: [*Computer Security*](https://textbook.cs161.org/), the CS 161 course textbook.
