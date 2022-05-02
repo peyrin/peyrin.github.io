@@ -12,50 +12,98 @@ If you have a question about one of the classes I'm teaching, please use the cou
 
 Email: peyrin@
 
-Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/).
+Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/). Starting August 2022, I'll be a lecturer in EECS at UC Berkeley.
 
 I'm interested in building large, scalable CS classes that are equitable and accessible for everyone. My current research focuses on preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
 
-I contribute regularly to [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
+I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 
 ## Teaching
 
 [Teaching evaluations available on HKN.](https://hkn.eecs.berkeley.edu/coursesurveys/instructor/Kao,Peyrin)
 
-CS 161: Computer Security
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>CS 161: Computer Security</th>
+    <th>CS 61C: Machine Structures</th>
+    <th>CS 188: Artificial Intelligence</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Fall 2022</td>
+    <td>Instructor</td>
+    <td></td>
+    <td>Co-instructor</td>
+  </tr>
+  <tr>
+    <td>Summer 2022</td>
+    <td>Co-instructor (with Fuzail Shakir)</td>
+    <td>Co-instructor (with Caroline Liu, Justin Yokota)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Spring 2022</td>
+    <td></td>
+    <td><a href="https://cs61c.org/sp22/" target="_blank" rel="noopener noreferrer">Head GSI</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fall 2021<br></td>
+    <td><a href="https://fa21.cs161.org/" target="_blank" rel="noopener noreferrer">GSI</a></td>
+    <td><a href="https://cs61c.org/fa21/" target="_blank" rel="noopener noreferrer">GSI</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Summer 2021</td>
+    <td><a href="https://su21.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a> (with <a href="https://ngai.me/" target="_blank" rel="noopener noreferrer">Nicholas Ngai</a>)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Spring 2021</td>
+    <td><a href="https://sp21.cs161.org/" target="_blank" rel="noopener noreferrer">Head uGSI</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fall 2020</td>
+    <td><a href="https://fa20.cs161.org/" target="_blank" rel="noopener noreferrer">Head uGSI</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Summer 2020<br></td>
+    <td><a href="https://su20.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a> (with <a href="https://ryanleh.me/" target="_blank" rel="noopener noreferrer">Ryan Lehmkuhl</a>)<br></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Spring 2020</td>
+    <td><a href="https://sp20.cs161.org/" target="_blank" rel="noopener noreferrer">uGSI</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fall 2019</td>
+    <td></td>
+    <td></td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa19/" target="_blank" rel="noopener noreferrer">uGSI</a></td>
+  </tr>
+  <tr>
+    <td>Summer 2019</td>
+    <td><a href="https://inst.eecs.berkeley.edu//~cs161/su19" target="_blank" rel="noopener noreferrer">uGSI</a></td>
+    <td><a href="https://cs61c.org/su19/" target="_blank" rel="noopener noreferrer">Tutor</a></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
-* Summer 2022: Co-instructor
-* [Spring 2022](https://sp22.cs161.org): Advisor
-* [Fall 2021](https://fa21.cs161.org/): GSI
-* [Summer 2021](https://su21.cs161.org/): Co-instructor (with [Nicholas Ngai](https://ngai.me/))
-* [Spring 2021](https://sp21.cs161.org/): Head uGSI
-* [Fall 2020](https://fa20.cs161.org/): Head uGSI
-* [Summer 2020](https://su20.cs161.org/): Co-instructor (with [Ryan Lehmkuhl](https://ryanleh.me/))
-* [Spring 2020](https://sp20.cs161.org/): uGSI
-* [Summer 2019](https://inst.eecs.berkeley.edu//~cs161/su19): uGSI
-
-CS 61C: Great Ideas in Computer Architecture (Machine Structures)
-
-* Summer 2022: Co-instructor
-* [Spring 2022](https://cs61c.org/sp22/): Head GSI
-* [Fall 2021](https://cs61c.org/fa21/): GSI
-* [Summer 2019](https://cs61c.org/su19/): Tutor
-
-CS 188: Introduction to Artificial Intelligence
-
-* [Fall 2019](https://inst.eecs.berkeley.edu/~cs188/fa19/): uGSI
-
-EE 16B: Designing Information Devices and Systems II
-
-* [Spring 2019](https://inst.eecs.berkeley.edu/~ee16b/sp19/): Reader (grading, writing lecture notes)
-
-EE 16A: Designing Information Devices and Systems I
-
-* [Fall 2018](https://inst.eecs.berkeley.edu/~ee16a/fa18/): Lab assistant
-
-CS 61A: Structure and Interpretation of Computer Programs
-
-* [Spring 2018](https://inst.eecs.berkeley.edu/~cs61a/sp18/): Academic intern (lab assistant, office hours)
+* Spring 2019: Reader (grading, writing lecture notes) for [EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp19/) (Designing Information Devices and Systems II)
+* Fall 2018: Lab assistant for [EE 16A](https://inst.eecs.berkeley.edu/~ee16a/fa18/) (Designing Information Devices and Systems I)
+* Spring 2018: Academic intern (lab assistant, office hours) for [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/): Structure and Interpretation of Computer Programs
 
 
 ## Projects
