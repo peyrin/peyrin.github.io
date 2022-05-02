@@ -6,11 +6,11 @@ layout: home
 ---
 
 If you have a question about one of the classes I'm teaching, please use the course emails instead (add berkeley.edu to the end of each):
-- CS 188: cs188@
 - CS 161: cs161-staff@
+- CS 188: cs188@
 - CS 61C: cs61c@
 
-Email: peyrin@
+Email (only if it's not related to the courses above): peyrin@
 
 Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/). Starting August 2022, I'll be a lecturer in EECS at UC Berkeley.
 
