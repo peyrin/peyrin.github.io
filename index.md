@@ -12,7 +12,7 @@ If you have a question about one of the classes I'm teaching, please use the cou
 
 Email (only if it's not related to the courses above): peyrin@
 
-Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/). Starting August 2022, I'll be a lecturer in EECS at UC Berkeley.
+Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/). Tentative: Starting August 2022, I'll be a lecturer in EECS at UC Berkeley.
 
 I'm interested in building large, scalable CS classes that are equitable and accessible for everyone. My current research focuses on preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
 
@@ -41,15 +41,15 @@ I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 <tbody>
   <tr>
     <td>Spring 2023</td>
-    <td>Instructor</td>
-    <td>Co-instructor</td>
+    <td>(Tentative) Instructor</td>
+    <td>(Tentative)<br>Co-instructor</td>
     <td></td>
   </tr>
   <tr>
     <td>Fall 2022</td>
-    <td>Instructor</td>
+    <td>(Tentative) Instructor</td>
     <td></td>
-    <td>Co-instructor</td>
+    <td>(Tentative)<br>Co-instructor</td>
   </tr>
   <tr>
     <td>Summer 2022</td>
