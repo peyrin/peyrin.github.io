@@ -5,6 +5,8 @@
 layout: home
 ---
 
+## Contact
+
 If you have a question about one of the classes I'm teaching, please use the course emails instead. These are checked by me, the co-instructors, and head TAs, so you'll get an answer more quickly if you use them. (Add berkeley.edu to the end of each one)
 - CS 161: cs161-staff@
 - CS 188: cs188@
@@ -12,7 +14,12 @@ If you have a question about one of the classes I'm teaching, please use the cou
 
 Email (only if it's not related to the courses above): peyrin@
 
-Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/). Tentative: Starting August 2022, I'll be a lecturer in EECS at UC Berkeley.
+
+## About
+
+Tentative: Starting August 2022, I'll be a lecturer in EECS at UC Berkeley.
+
+Hi! I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/).
 
 I'm interested in building large, scalable CS classes that are equitable and accessible for everyone. My current research focuses on preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
 
