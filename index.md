@@ -5,28 +5,34 @@
 layout: home
 ---
 
-Tentative: Starting August 2022, I'll be a lecturer in EECS at UC Berkeley.
+- Starting August 2022: Lecturer in EECS at UC Berkeley
+- 2021–2022: MS in Electrical Engineering and Computer Science, UC Berkeley
+  - Advisors: [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/)
+  - Research focus: Computer science education
+  - Thesis: Best practices for large-scale remote exams, and preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
+- 2017–2021: BA in Computer Science, BA in Data Science, UC Berkeley
 
-I'm a 5th year MS student (graduating August 2022) in EECS at UC Berkeley studying computer science education, advised by [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/). I did my undergrad at UC Berkeley, graduating in August 2021 with a BA in computer science and a BA in data science.
 
-I'm interested in building large, scalable CS classes that are equitable and accessible for everyone. My current research focuses on preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
+## Writing
 
-I write for [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
+Sometimes I write about teaching-related things at [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 
 
 ## Contact
 
-If you have a question about one of the classes I'm teaching, please use the course emails instead. These are checked by me, the co-instructors, and head TAs, so you'll get an answer more quickly if you use them. (Add berkeley.edu to the end of each one)
+If you have a question about one of the classes I'm teaching, please use the course emails instead. These are checked by me, the co-instructors, and head TAs, so you'll get an answer more quickly if you use them.
 - CS 161: cs161-staff@
 - CS 188: cs188@
 - CS 61C: cs61c@
 
-Email (only if it's not related to the courses above): peyrin@
+Personal email, only if it's not related to the courses above: peyrin@
+
+(Add berkeley.edu to the end of each email)
 
 
 ## Teaching
 
-[Teaching evaluations available on HKN.](https://hkn.eecs.berkeley.edu/coursesurveys/instructor/Kao,Peyrin)
+[Teaching ratings available here.](https://hkn.eecs.berkeley.edu/coursesurveys/instructor/Kao,Peyrin)
 
 <table>
 <colgroup>
@@ -45,16 +51,16 @@ Email (only if it's not related to the courses above): peyrin@
 </thead>
 <tbody>
   <tr>
-    <td>Spring 2023</td>
-    <td>(Tentative) Instructor</td>
-    <td>(Tentative)<br>Co-instructor</td>
+    <td>Spring 2023<br>(Tentative)</td>
+    <td>Instructor</td>
+    <td>Co-instructor<br>(with <a href="https://people.eecs.berkeley.edu/~ddgarcia/" target="_blank" rel="noopener noreferrer">Dan Garcia</a>)</td>
     <td></td>
   </tr>
   <tr>
     <td>Fall 2022</td>
-    <td>(Tentative) Instructor</td>
+    <td>Instructor</td>
     <td></td>
-    <td>(Tentative)<br>Co-instructor</td>
+    <td>Co-instructor</td>
   </tr>
   <tr>
     <td>Summer 2022</td>
@@ -82,13 +88,13 @@ Email (only if it's not related to the courses above): peyrin@
   </tr>
   <tr>
     <td>Spring 2021</td>
-    <td><a href="https://sp21.cs161.org/" target="_blank" rel="noopener noreferrer">Head uGSI</a></td>
+    <td><a href="https://sp21.cs161.org/" target="_blank" rel="noopener noreferrer">Head UGSI</a></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Fall 2020</td>
-    <td><a href="https://fa20.cs161.org/" target="_blank" rel="noopener noreferrer">Head uGSI</a></td>
+    <td><a href="https://fa20.cs161.org/" target="_blank" rel="noopener noreferrer">Head UGSI</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -100,7 +106,7 @@ Email (only if it's not related to the courses above): peyrin@
   </tr>
   <tr>
     <td>Spring 2020</td>
-    <td><a href="https://sp20.cs161.org/" target="_blank" rel="noopener noreferrer">uGSI</a></td>
+    <td><a href="https://sp20.cs161.org/" target="_blank" rel="noopener noreferrer">UGSI</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -108,20 +114,28 @@ Email (only if it's not related to the courses above): peyrin@
     <td>Fall 2019</td>
     <td></td>
     <td></td>
-    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa19/" target="_blank" rel="noopener noreferrer">uGSI</a></td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa19/" target="_blank" rel="noopener noreferrer">UGSI</a></td>
   </tr>
   <tr>
     <td>Summer 2019</td>
-    <td><a href="https://inst.eecs.berkeley.edu//~cs161/su19" target="_blank" rel="noopener noreferrer">uGSI</a></td>
+    <td><a href="https://inst.eecs.berkeley.edu//~cs161/su19" target="_blank" rel="noopener noreferrer">UGSI</a></td>
     <td><a href="https://cs61c.org/su19/" target="_blank" rel="noopener noreferrer">Tutor</a></td>
     <td></td>
   </tr>
 </tbody>
 </table>
 
-* [Spring 2019 EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp19/) (Designing Information Devices and Systems II): Reader (grading, writing lecture notes)
-* [Fall 2018 EE 16A](https://inst.eecs.berkeley.edu/~ee16a/fa18/) (Designing Information Devices and Systems I): Lab assistant
-* [Spring 2018 CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (Structure and Interpretation of Computer Programs): Academic intern (lab assistant, office hours)
+- Spring 2019
+  - [EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp19/) (Designing Information Devices and Systems II)
+  - Reader (grading, writing lecture notes)
+- Fall 2018
+  - [EE 16A](https://inst.eecs.berkeley.edu/~ee16a/fa18/) (Designing Information Devices and Systems I)
+  - Lab assistant
+- Spring 2018
+  - [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (Structure and Interpretation of Computer Programs)
+  - Academic intern (lab assistant, office hours)
+
+UGSI (Undergraduate Student Instructor) and GSI (Graduate Student Instructor) are Berkeley-specific terms for TAs.
 
 
 ## Projects
