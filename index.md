@@ -27,6 +27,8 @@ If you have a question about one of the classes I'm teaching, please use the cou
 
 Personal email, only if it's not related to the courses above: peyrin@
 
+Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
+
 (Add berkeley.edu to the end of each email)
 
 
