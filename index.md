@@ -5,18 +5,11 @@
 layout: home
 ---
 
-- Starting August 2022: Lecturer in EECS at UC Berkeley
+- 2022-present: Lecturer in EECS at UC Berkeley
 - 2021–2022: MS in Electrical Engineering and Computer Science, UC Berkeley
   - Advisors: [Nicholas Weaver](http://www1.icsi.berkeley.edu/~nweaver/) and [Dan Garcia](https://people.eecs.berkeley.edu/~ddgarcia/)
   - Research focus: Computer science education
-  - Thesis: Best practices for large-scale remote exams, and preserving the benefits of remote exams, especially for students from marginalized groups, in a post-pandemic world.
 - 2017–2021: BA in Computer Science, BA in Data Science, UC Berkeley
-
-
-## Writing
-
-Sometimes I write about teaching-related things at [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
-
 
 ## Contact
 
@@ -139,9 +132,13 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
 
 UGSI (Undergraduate Student Instructor) and GSI (Graduate Student Instructor) are Berkeley-specific terms for TAs.
 
+## Writing
+
+Sometimes I write about teaching-related things at [CS 161's pedagogy blog](https://pedagogy.cs161.org/).
 
 ## Projects
 
+* 2021-2022: Masters' Thesis: [Developing Accessible and Equitable Remote Exams at Scale During the COVID-19 Pandemic](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-223.html)
 * 2022: [New CS 61C project](https://cs61c.org/sp22/projects/proj1/), co-developed with the project dev TAs.
 * 2021: [CS 61C project spec rewrites](https://fa21.cs161.org/).
 * 2021: [CS 161 lecture slide redesign](https://su21.cs161.org/), with a focus on improved accessibility.
