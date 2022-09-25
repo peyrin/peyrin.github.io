@@ -46,16 +46,16 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
 </thead>
 <tbody>
   <tr>
-    <td>Spring 2023<br>(Tentative)</td>
+    <td>Spring 2023</td>
     <td>Instructor</td>
-    <td>Co-instructor<br>(with <a href="https://people.eecs.berkeley.edu/~ddgarcia/" target="_blank" rel="noopener noreferrer">Dan Garcia</a>)</td>
     <td></td>
+    <td>Co-instructor<br>(with Stuart Russell)</td>
   </tr>
   <tr>
     <td>Fall 2022</td>
     <td>Instructor</td>
     <td></td>
-    <td>Co-instructor</td>
+    <td>Co-instructor<br>(with Igor Mordatch)</td>
   </tr>
   <tr>
     <td>Summer 2022</td>
