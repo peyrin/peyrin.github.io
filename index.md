@@ -53,14 +53,14 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
   </tr>
   <tr>
     <td>Fall 2022</td>
-    <td>Instructor</td>
+    <td><a href="https://fa22.cs161.org" target="_blank" rel="noopener noreferrer">Instructor</a></td>
     <td></td>
-    <td>Co-instructor<br>(with Igor Mordatch)</td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa22" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with Igor Mordatch)</td>
   </tr>
   <tr>
     <td>Summer 2022</td>
-    <td>Co-instructor<br>(with Fuzail Shakir)</td>
-    <td>Co-instructor<br>(with Caroline Liu,<br>Justin Yokota)</td>
+    <td><a href="https://su22.cs161.org" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with Fuzail Shakir)</td>
+    <td><a href="https://cs61c.org/su22" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with Caroline Liu,<br>Justin Yokota)</td>
     <td></td>
   </tr>
   <tr>
