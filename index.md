@@ -47,9 +47,9 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
 <tbody>
   <tr>
     <td>Spring 2023</td>
-    <td>Instructor</td>
+    <td><a href="https://sp23.cs161.org" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="https://people.eecs.berkeley.edu/~raluca/" target="_blank" rel="noopener noreferrer">Raluca Ada Popa</a>)</td>
     <td></td>
-    <td>Co-instructor<br>(with Stuart Russell)</td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/sp23" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="http://people.eecs.berkeley.edu/~russell/" target="_blank" rel="noopener noreferrer">Stuart Russell</a>)</td>
   </tr>
   <tr>
     <td>Fall 2022</td>
@@ -120,6 +120,8 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
 </tbody>
 </table>
 
+UGSI (Undergraduate Student Instructor) and GSI (Graduate Student Instructor) are Berkeley-specific terms for TAs.
+
 - Spring 2019
   - [EE 16B](https://inst.eecs.berkeley.edu/~ee16b/sp19/) (Designing Information Devices and Systems II)
   - Reader (grading, writing lecture notes)
@@ -130,7 +132,9 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
   - [CS 61A](https://inst.eecs.berkeley.edu/~cs61a/sp18/) (Structure and Interpretation of Computer Programs)
   - Academic intern (lab assistant, office hours)
 
-UGSI (Undergraduate Student Instructor) and GSI (Graduate Student Instructor) are Berkeley-specific terms for TAs.
+### Advising
+
+- Fall 2022 & Spring 2023: [Codebreaking at Cal](https://codebreakingatcal.org/)
 
 ## Writing
 
