@@ -135,6 +135,8 @@ UGSI (Undergraduate Student Instructor) and GSI (Graduate Student Instructor) ar
 ### Advising
 
 - Fall 2022 & Spring 2023: [Codebreaking at Cal](https://codebreakingatcal.org/)
+- Fall 2022 & Spring 2023: [CS 61C](https://cs61c.org/fa22)
+- Spring 2022: [CS 161](https://sp22.cs161.org)
 
 ## Writing
 
