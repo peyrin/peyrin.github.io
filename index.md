@@ -25,6 +25,11 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
 (Add berkeley.edu to the end of each email)
 
 
+## Letters of Recommendation
+
+[Read over this page if you need a letter of recommendation from me.](/letter-of-rec)
+
+
 ## Teaching
 
 [Teaching ratings available here.](https://hkn.eecs.berkeley.edu/coursesurveys/instructor/Kao,Peyrin)
