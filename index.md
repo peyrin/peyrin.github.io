@@ -31,77 +31,103 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
 
 <table>
 <colgroup>
-  <col span="1" style="width: 19%;">
-  <col span="1" style="width: 27%;">
-  <col span="1" style="width: 27%;">
-  <col span="1" style="width: 27%;">
+  <col span="1" style="width: 14%;">
+  <col span="1" style="width: 21.5%;">
+  <col span="1" style="width: 21.5%;">
+  <col span="1" style="width: 21.5%;">
+  <col span="1" style="width: 21.5%;">
 </colgroup>
 <thead>
   <tr>
     <th></th>
-    <th>CS 161: Computer Security</th>
-    <th>CS 61C: Machine Structures</th>
-    <th>CS 188: Artificial Intelligence</th>
+    <th>CS 161<br>Computer Security</th>
+    <th>CS 61C<br>Machine Structures</th>
+    <th>CS 188<br>Artificial Intelligence</th>
+    <th>CS 61B<br>Data Structures</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Spring 2023</td>
-    <td><a href="https://sp23.cs161.org" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="https://people.eecs.berkeley.edu/~raluca/" target="_blank" rel="noopener noreferrer">Raluca Ada Popa</a>)</td>
+    <td>Spring 2024</td>
+    <td>Co-instructor<br>(tentative)</td>
     <td></td>
-    <td><a href="https://inst.eecs.berkeley.edu/~cs188/sp23" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="http://people.eecs.berkeley.edu/~russell/" target="_blank" rel="noopener noreferrer">Stuart Russell</a>)</td>
+    <td></td>
+    <td>Co-instructor<br>(with Justin Yokota)<br>(tentative)</td>
+  </tr>
+  <tr>
+    <td>Fall 2023</td>
+    <td><a href="https://fa23.cs161.org">Instructor</a></td>
+    <td></td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa23">Co-instructor</a><br>(with Igor Mordatch)</td>
+    <td>Co-instructor<br>(with Justin Yokota)<br>(tentative)</td>
+  </tr>
+  <tr>
+    <td>Spring 2023</td>
+    <td><a href="https://sp23.cs161.org">Co-instructor</a><br>(with <a href="https://people.eecs.berkeley.edu/~raluca/">Raluca Ada Popa</a>)</td>
+    <td></td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/sp23">Co-instructor</a><br>(with <a href="http://people.eecs.berkeley.edu/~russell/">Stuart Russell</a>)</td>
+    <td></td>
   </tr>
   <tr>
     <td>Fall 2022</td>
-    <td><a href="https://fa22.cs161.org" target="_blank" rel="noopener noreferrer">Instructor</a></td>
+    <td><a href="https://fa22.cs161.org">Instructor</a></td>
     <td></td>
-    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa22" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with Igor Mordatch)</td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa22">Co-instructor</a><br>(with Igor Mordatch)</td>
+    <td></td>
   </tr>
   <tr>
     <td>Summer 2022</td>
-    <td><a href="https://su22.cs161.org" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with Fuzail Shakir)</td>
-    <td><a href="https://cs61c.org/su22" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with Caroline Liu,<br>Justin Yokota)</td>
+    <td><a href="https://su22.cs161.org">Co-instructor</a><br>(with Fuzail Shakir)</td>
+    <td><a href="https://cs61c.org/su22">Co-instructor</a><br>(with Caroline Liu,<br>Justin Yokota)</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Spring 2022</td>
     <td></td>
-    <td><a href="https://cs61c.org/sp22/" target="_blank" rel="noopener noreferrer">Head GSI</a></td>
+    <td><a href="https://cs61c.org/sp22/">Head GSI</a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Fall 2021<br></td>
-    <td><a href="https://fa21.cs161.org/" target="_blank" rel="noopener noreferrer">GSI</a></td>
-    <td><a href="https://cs61c.org/fa21/" target="_blank" rel="noopener noreferrer">GSI</a></td>
+    <td><a href="https://fa21.cs161.org/">GSI</a></td>
+    <td><a href="https://cs61c.org/fa21/">GSI</a></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Summer 2021</td>
-    <td><a href="https://su21.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="https://ngai.me/" target="_blank" rel="noopener noreferrer">Nicholas Ngai</a>)</td>
+    <td><a href="https://su21.cs161.org/">Co-instructor</a><br>(with <a href="https://ngai.me/">Nicholas Ngai</a>)</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Spring 2021</td>
-    <td><a href="https://sp21.cs161.org/" target="_blank" rel="noopener noreferrer">Head UGSI</a></td>
+    <td><a href="https://sp21.cs161.org/">Head UGSI</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Fall 2020</td>
-    <td><a href="https://fa20.cs161.org/" target="_blank" rel="noopener noreferrer">Head UGSI</a></td>
+    <td><a href="https://fa20.cs161.org/">Head UGSI</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Summer 2020<br></td>
-    <td><a href="https://su20.cs161.org/" target="_blank" rel="noopener noreferrer">Co-instructor</a><br>(with <a href="https://ryanleh.me/" target="_blank" rel="noopener noreferrer">Ryan Lehmkuhl</a>)<br></td>
+    <td><a href="https://su20.cs161.org/">Co-instructor</a><br>(with <a href="https://ryanleh.me/">Ryan Lehmkuhl</a>)<br></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Spring 2020</td>
-    <td><a href="https://sp20.cs161.org/" target="_blank" rel="noopener noreferrer">UGSI</a></td>
+    <td><a href="https://sp20.cs161.org/">UGSI</a></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -109,12 +135,14 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
     <td>Fall 2019</td>
     <td></td>
     <td></td>
-    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa19/" target="_blank" rel="noopener noreferrer">UGSI</a></td>
+    <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa19/">UGSI</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Summer 2019</td>
-    <td><a href="https://inst.eecs.berkeley.edu//~cs161/su19" target="_blank" rel="noopener noreferrer">UGSI</a></td>
-    <td><a href="https://cs61c.org/su19/" target="_blank" rel="noopener noreferrer">Tutor</a></td>
+    <td><a href="https://inst.eecs.berkeley.edu//~cs161/su19">UGSI</a></td>
+    <td><a href="https://cs61c.org/su19/">Tutor</a></td>
+    <td></td>
     <td></td>
   </tr>
 </tbody>
@@ -140,6 +168,7 @@ Classes I didn't officially teach, but unofficially helped with.
 - Fall 2022 & Spring 2023: [Codebreaking at Cal](https://codebreakingatcal.org/)
 - Fall 2022 & Spring 2023: [CS 61C](https://cs61c.org/fa22) (Machine Structures)
 - Spring 2022: [CS 161](https://sp22.cs161.org) (Computer Security)
+- Summer 2023: [CS 161](https://su23.cs161.org) (Computer Security)
 
 ## Writing
 
