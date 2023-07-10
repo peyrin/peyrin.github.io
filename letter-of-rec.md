@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Letters of Recommendation
-
 If we've worked together before, contact me privately (e.g. staff Slack) and we'll write a letter together.
 
 If we've never worked together before (e.g. you were a student in a class I taught), then the best I can provide is a generic template letter, containing:
