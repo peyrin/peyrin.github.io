@@ -35,7 +35,7 @@ Descriptions of each field:
 - Relevant classes: Assuming you were a student in a class I taught, list the class/classes here. If that's not the case, describe how we've worked together here.
 - If you want me to include your grade in the class, list the grade(s) here. You can also put "N/A" here if you don't want me to include any information about grades.
 - Name of program: Exactly what you want in the letter. If you want a university/organization name, it can also go here, e.g. "5th year MS program at UC Berkeley". I'll generate one letter per program you list. If you need more than two letters, you can add more lines (e.g. "Name of program 3"). If you just need one letter, you can delete "Name of program 2".
-- Do you need a copy: If the letter needs to be submitted on my end (e.g. through an application portal), put "No". If you need a PDF copy of the letter to submit yourself, put "Yes".
+- Do you need a copy: If the letter needs to be submitted on my end (e.g. through an application portal), put "No". If you need a PDF copy of the letter to submit yourself, specify the program(s) for which you need a PDF copy.
 - I acknowledge that this is a generic template letter: Put "Yes" here to confirm that you have read over this entire page and understand all the disclaimers/warnings.
 
 After sending the information, you can send recommendation requests. Notes:
