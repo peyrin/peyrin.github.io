@@ -19,24 +19,16 @@ Sorry if this process feels a little uncharitable; I get a lot of requests every
 
 ## Template
 
-To request a letter of rec, send me an email with the following information in this exact format, so that I can quickly substitute it into the template letter:
-- Full name: 
-- First name: 
-- Relevant classes: 
-- Letter grades (optional): 
-- Name of program 1: 
-- Name of program 2: 
-- Do you need a copy: 
-- I acknowledge that this is a generic template letter: 
+To request a letter of rec, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScpXtlqO2s253W4_yV8pigSzSpG9hh82D7rRM20YxITiu8OZg/viewform) with the information you want to be substituted into the template letter.
 
 Descriptions of each field:
+- I acknowledge that this is a generic template letter, and I have read and understand all the disclaimers: Put "Yes" here to confirm that you have read over this entire page and understand all the disclaimers/warnings.
 - Full name: For the first mention of your name.
 - First name: For all future mentions of your name.
 - Relevant classes: Assuming you were a student in a class I taught, list the class/classes here. If that's not the case, describe how we've worked together here.
 - If you want me to include your grade in the class, list the grade(s) here. You can also put "N/A" here if you don't want me to include any information about grades.
-- Name of program: Exactly what you want in the letter. If you want a university/organization name, it can also go here, e.g. "5th year MS program at UC Berkeley". I'll generate one letter per program you list. If you need more than two letters, you can add more lines (e.g. "Name of program 3"). If you just need one letter, you can delete "Name of program 2".
-- Do you need a copy: If the letter needs to be submitted on my end (e.g. through an application portal), put "No". If you need a PDF copy of the letter to submit yourself, specify the program(s) for which you need a PDF copy.
-- I acknowledge that this is a generic template letter: Put "Yes" here to confirm that you have read over this entire page and understand all the disclaimers/warnings.
+- Name of program: Exactly what you want in the letter. If you want a university/organization name, it can also go here, e.g. “5th year MS program at UC Berkeley”. List exactly one program per form submission, and I’ll generate one letter per submission/program.
+- Do you need a copy: If the letter needs to be submitted on my end (e.g. through an application portal), put "No". If you need a PDF copy of the letter to submit yourself, put "Yes".
 
 After sending the information, you can send recommendation requests. Notes:
 - If you need me to email the letter to somebody, include the email address I should send the letter to, and and any information I need to include in the email (e.g. your name, some application ID number, etc.).
