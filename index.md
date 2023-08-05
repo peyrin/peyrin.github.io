@@ -183,8 +183,8 @@ Sometimes I write about teaching-related things at [CS 161's pedagogy blog](http
 
 * 2021-2022: Masters' Thesis: [Developing Accessible and Equitable Remote Exams at Scale During the COVID-19 Pandemic](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-223.html)
 * 2022: [New CS 61C project](https://cs61c.org/sp22/projects/proj1/), co-developed with the project dev TAs.
-* 2021: [CS 61C project spec rewrites](https://fa21.cs161.org/).
+* 2021: [CS 61C project spec rewrites](https://cs61c.org/fa21).
 * 2021: [CS 161 lecture slide redesign](https://su21.cs161.org/), with a focus on improved accessibility.
 * 2020-2021: [*Computer Security*](https://textbook.cs161.org/), the CS 161 course textbook.
-* 2020-2021: [CS 161 Exam Archive](https://cs161.org/resources.html#past-exams), fully annotated solutions for over 30 past exams.
+* 2020-2021: [CS 161 Exam Archive](https://cs161.org/resources), fully annotated solutions for over 30 past exams.
 * 2020: CS 161 problem set rewrite to support online learning.
