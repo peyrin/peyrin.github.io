@@ -54,17 +54,17 @@ Note: peyrin@eecs. forwards to peyrin@ so emailing either one is equivalent.
 <tbody>
   <tr>
     <td>Spring 2024</td>
-    <td>Co-instructor<br>(tentative)</td>
+    <td>Co-instructor<br>(with <a href="https://people.eecs.berkeley.edu/~raluca/">Raluca Ada Popa</a>)</td>
     <td></td>
     <td></td>
-    <td>Co-instructor<br>(with Justin Yokota)<br>(tentative)</td>
+    <td>Co-instructor<br>(with Justin Yokota)</td>
   </tr>
   <tr>
     <td>Fall 2023</td>
     <td><a href="https://fa23.cs161.org">Instructor</a></td>
     <td></td>
     <td><a href="https://inst.eecs.berkeley.edu/~cs188/fa23">Co-instructor</a><br>(with Igor Mordatch)</td>
-    <td>Co-instructor<br>(with Justin Yokota)<br>(tentative)</td>
+    <td><a href="https://fa23.datastructur.es">Co-instructor</a><br>(with Justin Yokota)</td>
   </tr>
   <tr>
     <td>Spring 2023</td>
